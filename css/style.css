@@ -45,6 +45,10 @@ main {
   padding-inline: 0.45em;
 }
 
+.card-body h1 {
+  font-size: 1.2rem;
+}
+
 .card p {
   color: var(--grayish_blue);
 }
